@@ -52,9 +52,14 @@ geckodriver.log
 .history
 .vscode
 
+#Added by AC
 nltk_data
 .jupyter
 .ipynb_checkpoints
 .ipython
 .local
 .cache
+.bash_logout
+.bashrc
+.config/
+.profile
