@@ -1,0 +1,4 @@
+[user]
+	email = steelers_d@hotmail.com
+[credential]
+	helper = libsecret
